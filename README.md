@@ -1,3 +1,3 @@
 # CalculatorAppCI
 
-![success](/downloads/succ.jpg)
+![success](succ.jpg)
