@@ -14,5 +14,3 @@ class TestCalculator:
     def test_multiply(self):
         assert 9 == calculator.subtract(3, 3)
 
-
-
