@@ -15,4 +15,4 @@ class TestCalculator:
         assert 9 == calculator.subtract(3, 3)
 
 
-        
+
